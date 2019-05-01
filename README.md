@@ -3,7 +3,13 @@
 Running [cordova-plugin-googlemaps](https://github.com/mapsplugin/cordova-plugin-googlemaps) on [Capacitor](https://capacitor.ionicframework.com/) is currently
 experimental feature.
 
-Some features might not work correctly.
+:warning: Some features might not work correctly.
+
+## Support
+
+  - Android -> :white_check_mark:
+  - iOS -> :white_check_mark:
+  - Web -> :x:
 
 ## Install
 
